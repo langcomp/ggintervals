@@ -1,0 +1,11 @@
+Package: ggintervals
+Type: Package
+Maintainer: Klinton Bicknell <kbicknell@northwestern.edu>
+Title: Additional useful confidence intervals to use with ggplot2.
+Version: 0.1
+Author: person("Klinton", "Bicknell", email = "kbicknell@northwestern.edu",
+  role = c("aut", "cre"))
+Description: Defines useful confidence intervals to use with ggplot2.
+License: GPL (>=2)
+Imports:
+  boot
